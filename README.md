@@ -1,5 +1,31 @@
-Hi, i’m @ctr-alt-f3. I am 15 yo. I’m interested in low level programming, and reverse engineering.
-I'm currently working on private and secure way to send data, check it out [here](https://github.com/ctr-alt-f3/PrivCommunication)
+<h1 align="center">Hi 👋, I'm @ctr-alt-f3</h1>
+<h3 align="center">I’m interested in low level programming, reverse engineering, and cardistry</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therr&label=Profile%20views&color=0e75b6&style=flat" alt="therr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therr" alt="therr" /></a> </p>
+
+- 🔭 I’m currently working on [PrivCommunication](https://github.com/ctr-alt-f3/PrivCommunication)
+
+- 🌱 I’m currently learning **C and Assembly**
+
+- ⚡ Fun fact **Igoooor Bryyyyyś**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therr&show_icons=true&locale=en&layout=compact" alt="therr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therr&show_icons=true&locale=en" alt="therr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therr&" alt="therr" /></p>
+
+
+check my project out [here](https://github.com/ctr-alt-f3/PrivCommunication)
 I'm still learning C, but i am doing my best.
 
 
