@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctr-alt-f3" alt="ctr-alt-f3" /></a> </p>
 
-- 🔭 I’m currently working on [PrivCommunication](https://github.com/ctr-alt-f3/PrivCommunication) - private and invisible way to communicate
+- 🔭 I’m currently working on [PrivCommunication](https://github.com/ctr-alt-f3/PrivCommunication) - private and invisible way to communicate and [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
 
 - 🌱 I’m currently learning **C and Assembly**
 
