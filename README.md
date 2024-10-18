@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **C and Assembly**
 
-- ⚡ Fun fact **Igoooor Bryyyyyś**
 
 
 <p align="left">
