@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [PrivCommunication](https://github.com/ctr-alt-f3/PrivCommunication) - private and invisible way to communicate and [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
+- 🔭 I’m currently working on [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
 
 - 🌱 I’m currently learning **C and Assembly**
 
