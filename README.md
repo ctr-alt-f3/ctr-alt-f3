@@ -4,6 +4,12 @@
 - 🔭 I’m currently working on [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
 
 - 🌱 I’m currently learning **C and Assembly**
+
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctr-alt-f3&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ctr-alt-f3" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctr-alt-f3&theme=darkhub&title=-Reviews,-Followers&column=3&no-bg=true&no-frame=true" alt="ctr-alt-f3" /></a> </p>
 
