@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctr-alt-f3&show_icons=true&locale=en&layout=compact" alt="ctr-alt-f3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctr-alt-f3&show_icons=true&locale=en" alt="ctr-alt-f3" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ctr-alt-f3&theme=merko&hide_border=true&background=1%2C0DFF00%2CFF0000&border=000000&hide_longest_streak=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctr-alt-f3&theme=merko&hide_border=true&background=1%2C0DFF00%2CFF0000&border=000000&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctr-alt-f3&" alt="ctr-alt-f3" /></p>
 
 
