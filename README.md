@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm @ctr-alt-f3</h1>
 <h3 align="center">I’m interested in low level programming, reverse engineering, and cardistry</h3>
 
+- 🔭 I’m currently working on [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
+
+- 🌱 I’m currently learning **C and Assembly**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctr-alt-f3&theme=darkhub&title=-Reviews,-Followers&column=3&no-bg=true&no-frame=true" alt="ctr-alt-f3" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctr-alt-f3&label=Profile%20views&color=blueviolet&style=matrix" alt="ctr-alt-f3" /> </p>
-
-
-
-- 🔭 I’m currently working on [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
-
-- 🌱 I’m currently learning **C and Assembly**
-
-
 
 <p align="left">
 </p>
