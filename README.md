@@ -7,7 +7,7 @@
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr-alt-f3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctr-alt-f3&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ctr-alt-f3" /> </p>
