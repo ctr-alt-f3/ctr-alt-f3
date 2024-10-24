@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctr-alt-f3&theme=darkhub&title=-Reviews,-Followers&column=3&no-bg=true&no-frame=true" alt="ctr-alt-f3" /></a> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctr-alt-f3&label=Profile%20views&color=0e75b6&style=blueviolet" alt="ctr-alt-f3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctr-alt-f3&label=Profile%20views&color=blueviolet&style=matrix" alt="ctr-alt-f3" /> </p>
 
 
 
