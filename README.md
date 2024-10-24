@@ -19,7 +19,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctr-alt-f3&show_icons=true&locale=en&layout=compact&theme=radical" alt="ctr-alt-f3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctr-alt-f3&show_icons=true&locale=en&theme=radical" alt="ctr-alt-f3" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctr-alt-f3&theme=merko&hide_border=false&background=1%2C2F14FF%2CFF0000&border=000000&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctr-alt-f3&theme=radical&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 
