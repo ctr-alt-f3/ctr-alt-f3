@@ -38,4 +38,6 @@ All code here isn't ment to work. I just take fun from coding. Everything is eas
 now press ctr-alt-f3
 (thank you)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr-alt-f3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+(i'm working with this one, you can ignore this)
+//[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr-alt-f3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
