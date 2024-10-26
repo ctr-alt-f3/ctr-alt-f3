@@ -40,4 +40,4 @@ now press ctr-alt-f3
 
 
 (i'm working with this one, you can ignore this)
-//[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr-alt-f3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+//[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr_alt_fThree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
