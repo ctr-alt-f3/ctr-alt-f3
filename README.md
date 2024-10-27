@@ -46,7 +46,7 @@ now press ctr-alt-f3
 
 
 
-idk why, but it does not work, i will fix it later
+those stats are broken, add 10 hours, or so
 
 
 
