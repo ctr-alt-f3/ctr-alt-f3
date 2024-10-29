@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PseudoBytecodeInterpreter](https://github.com/ctr-alt-f3/SimplePseudoBytecodeInterpreter) 
 
-- 🌱 I’m currently learning **C and Assembly**
+- 🌱 I’m currently learning **C and Assembly (and little bit of arduino)**
 
 
 
