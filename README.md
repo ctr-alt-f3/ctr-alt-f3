@@ -33,7 +33,7 @@ check my project out [here](https://github.com/ctr-alt-f3/PrivCommunication)
 I'm still learning C, but i am doing my best.
 
 
-All code here isn't ment to work. I just take fun from coding. Everything is easly compiled thru gcc. Only linux software, windows is bloat.  
+All code here isn't ment to work. I just take fun from coding. Everything is easly compiled through gcc. Only linux software, windows is bloat.  
 
 now press ctr-alt-f3
 (thank you)
