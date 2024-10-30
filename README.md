@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctr-alt-f3&show_icons=true&locale=en&theme=radical" alt="ctr-alt-f3" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctr-alt-f3&theme=radical&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr_alt_fThree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 check my project out [here](https://github.com/ctr-alt-f3/PrivCommunication)
 I'm still learning C, but i am doing my best.
@@ -51,4 +51,4 @@ those stats are broken, add 10 hours, or so
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr_alt_fThree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
