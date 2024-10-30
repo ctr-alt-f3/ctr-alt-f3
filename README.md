@@ -3,8 +3,13 @@
 
 - 🔭 I’m currently working on [CanSat Project](https://github.com/ctr-alt-f3/CanSat-software-vision-imagination)
 
-- 🌱 I’m currently learning **C and Assembly (and little bit of arduino)**
-CHANGELOG: WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+- 🌱 I’m currently learning **C and Assembly**
+
+
+
+
+
+  CHANGELOG: WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 
 
 
