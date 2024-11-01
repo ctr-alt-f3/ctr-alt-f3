@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @ctr-alt-f3</h1>
 <h3 align="center">I’m interested in low level programming, reverse engineering, and cardistry</h3>
 
-- 🔭 I’m currently working on [CanSat Project](https://github.com/ctr-alt-f3/CanSat-software-vision-imagination) (NO - NO MORE CODE - WE LOST IT)
+- 🔭 I’m currently working on private repo, will be published later
 
 - 🌱 I’m currently learning **C and Assembly**
 
@@ -9,7 +9,7 @@
 
 
 
-  CHANGELOG: WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+
 
 
 
@@ -34,7 +34,6 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr_alt_fThree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-check my project out [here](https://github.com/ctr-alt-f3/PrivCommunication)
 I'm still learning C, but i am doing my best.
 
 
