@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @ctr-alt-f3</h1>
 <h3 align="center">I’m interested in low level programming, reverse engineering, and cardistry</h3>
 
-- 🔭 I’m currently working on private repo, will be published later
+- 🔭 I’m currently working on [my minescript scripts](https://github.com/ctr-alt-f3/minescript-scripts)
 
-- 🌱 I’m currently learning **C and Assembly**
+- 🌱 I’m currently learning **Python and C**
 
 
 
