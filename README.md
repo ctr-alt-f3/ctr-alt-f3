@@ -34,10 +34,10 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr_alt_fThree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm still learning C, but i am doing my best.
+I'm still learning C and python, but i am doing my best.
 
 
-All code here isn't ment to work. I just take fun from coding. Everything is easly compiled through gcc. Only linux software, windows is bloat.  
+All code here isn't ment to work. I just take fun from coding. Everything is easly compiled through gcc/python.
 
 now press ctr-alt-f3
 (thank you)
