@@ -50,9 +50,4 @@ now press ctr-alt-f3
 
 
 
-those stats are broken, add 10 hours, or so
-
-
-
-
 
