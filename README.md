@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @ctr-alt-f3</h1>
 <h3 align="center">I’m interested in low level programming, reverse engineering, and cardistry</h3>
 
-- 🔭 I’m currently working on [my experimental C2 server](https://github.com/ctr-alt-f3/RevShell-Automator) and [pfp-muGGer](https://github.com/ctr-alt-f3/GaduGadu_profile_picture-downloader)
+- 🔭 I’m currently working on [my experimental mythic agent](https://github.com/ctr-alt-f3/example_mythic_agent)
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **C and ASM**
 
 
 
