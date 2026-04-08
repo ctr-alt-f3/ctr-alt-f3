@@ -20,8 +20,6 @@ I’m currently learning **C and ASM**
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctr_alt_fThree&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm still learning C and python, but i am doing my best.
 
 
