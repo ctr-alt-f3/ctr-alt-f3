@@ -13,7 +13,7 @@ I’m currently learning **C and ASM**
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctr-alt-f3&theme=darkhub&title=-Reviews,-Followers&column=3&no-bg=true&no-frame=true" alt="ctr-alt-f3" /></a> </p>
+
 
 [![wakatime](https://wakatime.com/badge/user/c4d8b651-8916-4eb4-a0a3-311c31368cd2.svg)](https://wakatime.com/@c4d8b651-8916-4eb4-a0a3-311c31368cd2)
 
